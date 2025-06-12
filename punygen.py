@@ -55,6 +55,6 @@ def puny_variants(char):
         console.print(f"[bold red]No homoglyphs found for '{char}'")
 
 if __name__ == "__main__":
-    console.print("[bold magenta]🔥 Unicode Homoglyph + Punycode Generator 🔥", justify="center")
+    console.print("[bold magenta]🔥 Unicode Homoglyph + Punycode Generator 🔥")
     char = Prompt.ask("[cyan]Enter a letter (a-z)").strip().lower()
     puny_variants(char)
