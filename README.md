@@ -13,6 +13,7 @@ A fun and powerful terminal-based tool that helps you find **visually similar Un
 
 ---
 
+
 ## 📦 Installation
 
 1. **Clone the repo or download the script**:
