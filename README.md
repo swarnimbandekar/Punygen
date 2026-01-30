@@ -38,7 +38,7 @@ Then input any letter from a to z when prompted.
 
 ## 📷 Example
 
-![Demo Screenshot](images/demo.png)
+![Demo Screenshot here](images/demo.png)
 
 ---
 
