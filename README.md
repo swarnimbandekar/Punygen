@@ -2,6 +2,7 @@
 
 A fun and powerful terminal-based tool that helps you find **visually similar Unicode variants (homoglyphs)** of English letters (`a–z`) and outputs their **Punycode** representations — useful for domain fuzzing, phishing simulations, or red teaming!
 
+
 ---
 
 
