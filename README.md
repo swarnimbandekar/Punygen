@@ -5,7 +5,6 @@ A fun and powerful terminal-based tool that helps you find **visually similar Un
 
 ---
 
-
 ## 🚀 Features
 
 - Input any letter (`a–z`)
