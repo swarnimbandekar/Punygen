@@ -2,7 +2,6 @@
 
 A fun and powerful terminal-based tool that helps you find **visually similar Unicode variants (homoglyphs)** of English letters (`a–z`) and outputs their **Punycode** representations — useful for domain fuzzing, phishing simulations, or red teaming!
 
-
 ---
 
 ## 🚀 Features
@@ -13,7 +12,6 @@ A fun and powerful terminal-based tool that helps you find **visually similar Un
 - Beautiful, colorful terminal UI using the [`rich`](https://github.com/Textualize/rich) library
 
 ---
-
 
 ## 📦 Installation
 
